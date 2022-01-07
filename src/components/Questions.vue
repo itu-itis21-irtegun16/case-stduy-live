@@ -132,7 +132,6 @@ export default {
 <style scoped>
 
     .question{
-        height: 70px;
         box-shadow: unset !important;
     }
     .question-title{
